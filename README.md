@@ -45,6 +45,3 @@ Generated links:
 - Frame-level object detection  
 - Cross-frame aggregation of objects  
 - Converts visual data into actionable insights  
-
-```bash
-pip install ultralytics opencv-python
